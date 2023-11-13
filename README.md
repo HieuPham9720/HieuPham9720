@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Hieu Pham 👋
+- 🔭 I’m building my own web blog
+- 🌱 I’m studying for AWS Certified Cloud Practioner Certification and learning C# .NET
+
+**Languages and Tools**
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,django,vue" />
+  </a>
+</p>
 
 <!--
 **HieuPham9720/HieuPham9720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
