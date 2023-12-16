@@ -1,5 +1,5 @@
 ### Hi there, I'm Hieu Pham 👋
-- 🔭 I’m building my own web blog
+- 🔭 I’m looking forward to contributing to open source
 - 🌱 I’m studying for AWS Certified Cloud Practioner Certification and learning C# .NET
 
 **Languages and Tools**
